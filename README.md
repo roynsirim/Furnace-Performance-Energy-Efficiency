@@ -1,19 +1,25 @@
 # Furnace-Performance-Energy-Efficiency-
 Predictive model built to analyse energy efficiency, predicting the worst performing furnace within a fleet of furnaces.
 
-Objectives:
+**Objectives**:
 
 **Primary Objective**:
 Identify specific furnaces that are underperforming in terms of energy efficiency to target for improvement initiatives. This could lead to maintenance, or process optimisation.
 
 **Analytical Objectives**:
+
 **Rank furnaces by energy efficiency**: Clearly determine which furnaces exhibit the highest kWh/tonne values (Worst Performer).
+
 **Investigate potential correlations**: Explore if kWh/tonne correlates with Tonnes/hour or kWh/hour to understand contributing factors to poor performance. For example, is a furnace consuming more energy per tonne because it's running slower, or because it's inherently less efficient?
+
 **Quantify the performance gap**: Determine the difference in kWh/tonne between the worst and best-performing furnaces.
 
 **Key Metrics and Their Relevance**:
+
 **kWh (energy consumed)**: Total energy used. This is a primary cost driver.
+
 **Tonnes (output)**: Total material processed. This is a primary measure of productivity and revenue generation.
+
 **Cycle time (hours)**: Duration of one operational cycle. Important for understanding throughput and potential bottlenecks.
 **kWh per tonne (Energy Efficiency Metric)**: This is our primary metric of interest. It directly measures how much energy is required to produce one tonne of output.
 **Relevance**: A higher kWh/tonne indicates lower energy efficiency and higher energy cost per unit of production. This is the direct measure for identifying our "worst performing" furnace from an energy perspective.
