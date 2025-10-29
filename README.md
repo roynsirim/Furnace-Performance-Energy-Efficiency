@@ -2,7 +2,8 @@
 Predictive model built to analyse energy efficiency, predicting the worst performing furnace within a fleet of furnaces.
 
 Objectives:
-\n**Primary Objective**:
+
+**Primary Objective**:
 Identify specific furnaces that are underperforming in terms of energy efficiency to target for improvement initiatives. This could lead to maintenance, or process optimisation.
 
 **Analytical Objectives**:
